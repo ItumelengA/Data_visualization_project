@@ -44,7 +44,7 @@ streamlit run codebase.py
 2. Processor: AMD Ryzen 5 5625U with Radeon Graphics          (2.30 GHz)
 3. Installed RAM: 8,00 GB (7,31 GB usable
 4. System type: 64-bit operating system, x64-based processor
-5. Disk storage: 237
+5. Disk storage: 237 GB
 
 ## Indicators used:
 1) Individual internet Access (% population)
