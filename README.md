@@ -5,3 +5,4 @@
 - Database integration with MySQL
 - Excel export with conditional formatting
 - Comprehensive statistical analysis
+# Execution instructions 
